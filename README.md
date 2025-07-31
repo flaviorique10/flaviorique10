@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Atualmente mergulhado no mundo do desenvolvimento de software, trazendo na bagagem **1 ano de experiência em Suporte Técnico de TI**, o que me deu uma base sólida para resolver problemas e entender as necessidades do usuário.
+Atualmente mergulhado no mundo do **desenvolvimento de software** atuando como desenvolvedor de software utilizando C#, trazendo na bagagem **1 ano de experiência em Suporte Técnico de TI**, o que me deu uma base sólida para resolver problemas e entender as necessidades do usuário.
 
 - 🌱 Estou sempre buscando conhecimento para evoluir na carreira e alcançar meus objetivos profissionais aqui em João Pessoa.
 - 💬 Sou comunicativo, proativo e acredito muito no poder do trabalho em equipe para entregar resultados excepcionais.
