@@ -1,5 +1,5 @@
 ### 👋 Olá, pode me chamar de Flávio!
-<p>Um paraibano arretado, estudante de Sistemas para Internet no IFPB e desenvolvedor de software em formação.</p>
+<p>Um paraibano arretado, estudante de Sistemas para Internet no IFPB e desenvolvedor de software em evolução.</p>
 
 <div align="center">
   <a href="https://github.com/flaviorique10">
